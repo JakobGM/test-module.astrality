@@ -1,0 +1,7 @@
+module/botswana:
+    on_startup:
+        run: echo 'Greetings from Botswana!'
+
+context/geography:
+    botswana:
+        capitol: Gaborone
