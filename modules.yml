@@ -1,0 +1,7 @@
+botswana:
+    on_startup:
+        run: echo 'Greetings from Botswana!'
+
+ghana:
+    on_startup:
+        run: echo 'Greetings from Ghana!'
